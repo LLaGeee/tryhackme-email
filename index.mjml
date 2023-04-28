@@ -1,0 +1,192 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-section background-color="#212A3E"  />
+            <mj-text color="#ffffff" font-family="Ubuntu, Tahoma, Verdana, Segoe, sans-serif" />
+            <mj-button font-family="Ubuntu, Tahoma, Verdana, Segoe, sans-serif" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#F0F0F0">
+        <!--Header-->
+        <mj-section padding-bottom="0" background-color="#F0F0F0">
+            <mj-column padding-bottom="0">
+                <mj-image src="img/tryhackme-header.png" alt="" width="100px"/>
+                <mj-image src="img/aws.png" alt="" padding="0" />
+            </mj-column>
+        </mj-section>
+
+        <!--Heaading Content-->
+        <mj-section padding-top="0">
+            <mj-column  padding-top="0">
+                <mj-text align="center" padding="10px" color="#ffffff">
+                    <h2 style="color: #a3ea2a;">Get hands-on access and replicate real world attack scenarios on AWS</h2>
+                    <p>Launch into TryHackMe's new cloud security pathway designed to train and upskill the workforce in <span style="color: #a3ea2a">Amazon Web Services</span>.</p>
+                    <p>Our training replicates the level of access that users would have in real-world environments. Users are able to work across scenarios in various AWS services and apply this learning to the real world!</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!--AWS Pathway-->
+        <mj-section padding-bottom="0">
+            <mj-column width="30%">
+                <mj-image src="img/cloud-network.png" alt="" />
+            </mj-column>
+            <mj-column width="70%">
+                <mj-text>
+                    <p>This AWS pathway enables teams to:</p>
+                    <p>✓ Explore the fundamental concepts in AWS<br>
+                    ✓ Understand how various services within AWS work<br>
+                    ✓ Learn how attackers target and exploit misconfigurations<br>
+                    ✓ Discover actionable mitigations to prevent risks</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!--Button-->
+        <mj-section padding-top="0">
+            <mj-column>
+                <mj-button padding-bottom="0" font-weight="bold" font-size="16px" background-color="#a3ea2a" color="#212A3E" href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVEsxUVVEQVBmSGNQYkhjQUdIbHo2YWsxQVIzbmN2Nmpxb2RRMD0iLCJocmVmIjoiaHR0cHM6Ly9yZXNvdXJjZXMudHJ5aGFja21lLmNvbS9hdHRhY2tpbmctYW5kLWRlZmVuZGluZy1hd3MiLCJpbnRlcm5hbCI6ImNhZDUwNTNkODY2ZmY3Yzc3MCIsImxpbmtfaWQiOjIyMjZ9/e3fb9ebd2d66cf9eca6f8ffa884227ce5e774f3a7dfae34f1d4d8cb7810081e8" target="_blank">
+                    Find out more
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!--Training Modules in the Pathway-->
+        <mj-section padding-top="0">
+            <mj-column>
+                <mj-text align="center" padding-top="0">
+                    <h2 style="color: #a3ea2a;">Training Modules in the Pathway</h2>
+                    <p>Discover the comprehensive modules created by in-market experts with over 25 years of combined AWS experience:</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!--Pathways w images-->
+        <mj-section padding-top="0">
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image src="img/cloud.png" alt="" />
+            </mj-column>
+            <mj-column width="70%" vertical-align="middle">
+                <mj-text align="center">
+                    <p style="font-weight: bold;">Introduction to Amazon Web Services</p>
+                    <p>Learn the unique characteristics associated with cloud technologies and core fundamentals.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="0">
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image src="img/red-lock.png" alt="" />
+            </mj-column>
+            <mj-column width="70%" vertical-align="middle">
+                <mj-text align="center">
+                    <p style="font-weight: bold;">Introduction to Identity and Access Management (IAM)</p>
+                    <p>Set the foundation for attacking and defending by understanding how permissions work on AWS.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="0">
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image src="img/dump.png" alt="" />
+            </mj-column>
+            <mj-column width="70%" vertical-align="middle">
+                <mj-text align="center">
+                    <p style="font-weight: bold;">Attacking and Defending Core Services</p>
+                    <p>Explore security misconfiguration on commonly used AWS services including EC2, S3, VPC, KMS and more.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="0">
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image src="img/skull.png" alt="" />
+            </mj-column>
+            <mj-column width="70%" vertical-align="middle">
+                <mj-text align="center">
+                    <p style="font-weight: bold;">Attacking and Defending Serverless</p>
+                    <p>Work with Serverless components within AWS (including Lambda and Step functions) to understand how they can be exploited.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image src="img/lock.png" alt="" />
+            </mj-column>
+            <mj-column width="70%" vertical-align="middle">
+                <mj-text align="center">
+                    <p style="font-weight: bold;">Identity and Access Management (IAM) Privilege Escalation</p>
+                    <p>Put knowledge to practice by covering key concepts required to enumerate, exploit and persist across IAM.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!--Suitable for all Cloud Practitioners-->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text align="center">
+                    <h2 style="color: #a3ea2a;">Suitable for all Cloud Practitioners</h2>
+                    <p>Suitable for any team and role that overlaps with cloud technology, including Cloud Engineers, Penetration Testers, DevOps and DevSecOps.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="0">
+            <mj-column width="33%">
+                <mj-image src="img/cloud-network.png" alt="" />
+            </mj-column>
+            <mj-column width="33%">
+                <mj-image src="img/bug-laptop.png" alt="" />
+            </mj-column>
+            <mj-column width="33%">
+                <mj-image src="img/lifecycle.png" alt="" />
+            </mj-column>
+        </mj-section>
+
+        <!--Ready to start Atacking & Defending AWS Environments-->
+        <mj-section padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text align="center" padding-bottom="0">
+                    <h2 style="color: #a3ea2a;">Ready to start Attacking & Defending AWS Environments?</h2>
+                    <p>Our AWS online training is available to all current business clients. Just reach out to your dedicated customer success manager or our sales team for more information on pricing!</p>
+                </mj-text>
+                <mj-button padding-top="0" padding-bottom="0" font-weight="bold" font-size="16px" background-color="#a3ea2a" color="#212A3E" href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVEsxUVVEQVBmSGNQYkhjQUdIbHo2YWsxQVIzbmN2Nmpxb2RRMD0iLCJocmVmIjoiaHR0cHM6Ly9yZXNvdXJjZXMudHJ5aGFja21lLmNvbS9hdHRhY2tpbmctYW5kLWRlZmVuZGluZy1hd3MiLCJpbnRlcm5hbCI6ImNhZDUwNTNkODY2ZmY3Yzc3MCIsImxpbmtfaWQiOjIyMjZ9/e3fb9ebd2d66cf9eca6f8ffa884227ce5e774f3a7dfae34f1d4d8cb7810081e8" target="_blank">
+                    Find out more
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!--Register Section & Social Media-->
+        <mj-section>
+            <mj-column>
+                <mj-divider border-color="#ffffff" border-style="dotted" border-width="1px"/>
+                <mj-text padding-bottom="0" padding-top="0">
+                    <h3>Want exclusive access to our AWS Cloud Security training at no extra cost? Check out our social accounts to be in with the chance of being chosen! </h3>
+                </mj-text>
+                <mj-divider border-color="#ffffff" border-style="dotted" border-width="1px"/>
+                <mj-text align="center" padding-top="0">
+                    <p>While the learning path is currently only open to TryHackMe Business clients, we are exploring how to deliver the training to individual learners. Want to be the first to know about our AWS Cloud Security pathway for individual users? <a style="color: #a3ea2a;" href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVEsxUVVEQVBmSGNQYkhjQUdIbHo2YWsxQVIzbmN2Nmpxb2RRMD0iLCJocmVmIjoiaHR0cHM6Ly9mb3Jtcy5nbGUvVjhNeU5jYmFEeHBSQ2RIRDgiLCJpbnRlcm5hbCI6ImNhZDUwNTNkODY2ZmY3Yzc3MCIsImxpbmtfaWQiOjIyMjd9/b6a9ed4b3fda2cf7f5c83e00f68de68975892ce8f4ca13ff3b8c83dc6d8b60fb" target="_blank">Register your interest here!</a></p>
+                </mj-text>
+                <mj-social padding-top="0">
+                    <mj-social-element src="img/facebook-icon.png" icon-size="30px" href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVEsxUVVEQVBmSGNQYkhjQUdIbHo2YWsxQVIzbmN2Nmpxb2RRMD0iLCJocmVmIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1RyeS1IYWNrLU1lLTEwMTA0MDQzMjE4MjM2OCIsImludGVybmFsIjoiY2FkNTA1M2Q4NjZmZjdjNzcwIiwibGlua19pZCI6ODY3fQ/e48ef44a749b8b29aa618d0a71a74dc7ea7b73a9fd9386a3ff7f4b30b3989953" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/twitter-icon.png" icon-size="30px" href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVEsxUVVEQVBmSGNQYkhjQUdIbHo2YWsxQVIzbmN2Nmpxb2RRMD0iLCJocmVmIjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9SZWFsVHJ5SGFja01lIiwiaW50ZXJuYWwiOiJjYWQ1MDUzZDg2NmZmN2M3NzAiLCJsaW5rX2lkIjo4ODB9/8c50203284aa3fb138d7f15ebf4f4f80be3d3270c1a0206ac067fdfb12d6df1d" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/instagram-icon.png" icon-size="30px" href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVEsxUVVEQVBmSGNQYkhjQUdIbHo2YWsxQVIzbmN2Nmpxb2RRMD0iLCJocmVmIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9yZWFsdHJ5aGFja21lLyIsImludGVybmFsIjoiY2FkNTA1M2Q4NjZmZjdjNzcwIiwibGlua19pZCI6ODY2fQ/c4969da353c13ba44981a0900260b12e3ba2db756d05a95303fb451d1c1676dc" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/linkedin-icon.png" icon-size="30px" href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVEsxUVVEQVBmSGNQYkhjQUdIbHo2YWsxQVIzbmN2Nmpxb2RRMD0iLCJocmVmIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvdHJ5aGFja21lLyIsImludGVybmFsIjoiY2FkNTA1M2Q4NjZmZjdjNzcwIiwibGlua19pZCI6NH0/a56666d276941fe04d44ba216cf93ed52610b34922a224fb64a6aa6c8e6e2d27" target="_blank"></mj-social-element>
+                    <mj-social-element src="img/pinterest-icon.png" icon-size="30px" href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVEsxUVVEQVBmSGNQYkhjQUdIbHo2YWsxQVIzbmN2Nmpxb2RRMD0iLCJocmVmIjoiaHR0cHM6Ly93d3cucGludGVyZXN0LmNvLnVrL1JlYWxUcnlIYWNrTWUvIiwiaW50ZXJuYWwiOiJjYWQ1MDUzZDg2NmZmN2M3NzAiLCJsaW5rX2lkIjo4ODF9/d681677b091ad74a3016a9bc98d336ad7516c9a52a92e7b65af63c7c7613672c" target="_blank"></mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+        <!--Footer-->
+        <mj-section background-color="#394867" padding-top="0" padding-bottom="0">
+            <mj-column>
+                <mj-text align="center" font-size="12px" padding-bottom="0">
+                    <p><a style="color: #ffffff; text-decoration: underline;" href="https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVEsxUVVEQVBmSGNQYkhjQUdIbHo2YWsxQVIzbmN2Nmpxb2RRMD0iLCJocmVmIjoiaHR0cHM6Ly90cnloYWNrbWUuY29tL3Rlcm1zIiwiaW50ZXJuYWwiOiJjYWQ1MDUzZDg2NmZmN2M3NzAiLCJsaW5rX2lkIjoxMH0/f48bf7c34280d7e9e57e71c6e0e9aa72ffb1fd6fcb0c870e45c0ea7cc6dcebfc" target="_blank">Terms</a> | <a style="color: #ffffff; text-decoration: underline;" href="https://e.customeriomail.com/unsubscribe/dgTK1QUDAPfHcPbHcAGHlz6ak1AR3ncv6jqodQ0=" target="_blank">Unsubscribe</a></p>
+                    <p>Copyright © TryHackMe. All rights reserved.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        
+    </mj-body>
+</mjml>
